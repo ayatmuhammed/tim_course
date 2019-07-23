@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027639419550",
+    "firebase_url": "https://timcourse-d1b75.firebaseio.com",
+    "project_id": "timcourse-d1b75",
+    "storage_bucket": "timcourse-d1b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027639419550:android:fb5e7198cfc53794",
+        "android_client_info": {
+          "package_name": "com.tim.tim_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027639419550-ntov5p7ivt7orcteju43f932mljqg190.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tim.tim_course",
+            "certificate_hash": "e97b23ce270f46990d852acdd0181205c8cff21f"
+          }
+        },
+        {
+          "client_id": "1027639419550-2afbo9s09mbe27bifnu521cmolf2kndg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJ27Dx0GQpoi5bH5cVLuxj0YzBSb-RHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027639419550-2afbo9s09mbe27bifnu521cmolf2kndg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
